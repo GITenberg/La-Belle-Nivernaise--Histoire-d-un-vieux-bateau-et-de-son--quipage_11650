@@ -1,5 +1,8 @@
 _repo: La-Belle-Nivernaise--Histoire-d-un-vieux-bateau-et-de-son--quipage_11650
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
 description: "Aussi contient Légendes et récits:\r\nJarjaille chez le bon Dieu; La\
   \ figue et le paresseux; Premier habit; Les trois messes basses; Le nouveau maitre"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11650#La-Belle-Nivernaise--Histoire-d-un-vieux-bateau-et-de-son--quipage
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
